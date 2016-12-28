@@ -12,3 +12,6 @@ add consoleHook in the html file like:
 ```html
 <script type="text/javascript" src="consoleHook.js"></script>
 ```
+##Other Goodies
+
+change server port in config.js & consoleHook.js
